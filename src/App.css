@@ -1,0 +1,29 @@
+.cart-header{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart-avatar {
+  display: flex;
+  align-items: center;
+}
+
+.headear-checkout {
+  display: flex;
+}
+
+.cart-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.discount{
+  color: lightcoral;
+  font-weight: 800;
+}
+
+
+
