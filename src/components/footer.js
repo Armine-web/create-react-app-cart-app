@@ -13,7 +13,7 @@ export const Footer = (props) => {
   return (
     <div className='ui segment cart-footer'>
       <a href ="#" className='ui primary link'>Back to Shopping</a>
-    <span>
+    <span className="openning-time">
       {props.opening}
     </span>
     <div className='scial-link'><SocialIcons /></div>

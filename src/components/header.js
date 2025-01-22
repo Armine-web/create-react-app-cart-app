@@ -12,9 +12,10 @@ export const Header = () => {
     
 
     const filtered = items.filter(item =>
-      item.title.toLowerCase().includes(query.toLowerCase())
+      item.title && item.title.toLowerCase().includes(query.toLowerCase())
     );
     setData(filtered);
+    
   };
 
   return (
