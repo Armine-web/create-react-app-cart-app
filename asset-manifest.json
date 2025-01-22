@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/create-react-app-cart-app/static/css/main.4cb0de2d.css",
-    "main.js": "/create-react-app-cart-app/static/js/main.71ac91ae.js",
+    "main.css": "/create-react-app-cart-app/static/css/main.feca8017.css",
+    "main.js": "/create-react-app-cart-app/static/js/main.81759eae.js",
     "index.html": "/create-react-app-cart-app/index.html",
-    "main.4cb0de2d.css.map": "/create-react-app-cart-app/static/css/main.4cb0de2d.css.map",
-    "main.71ac91ae.js.map": "/create-react-app-cart-app/static/js/main.71ac91ae.js.map"
+    "main.feca8017.css.map": "/create-react-app-cart-app/static/css/main.feca8017.css.map",
+    "main.81759eae.js.map": "/create-react-app-cart-app/static/js/main.81759eae.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cb0de2d.css",
-    "static/js/main.71ac91ae.js"
+    "static/css/main.feca8017.css",
+    "static/js/main.81759eae.js"
   ]
 }
