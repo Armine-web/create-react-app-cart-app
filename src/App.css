@@ -25,5 +25,29 @@
   font-weight: 800;
 }
 
+.search-button{
+  background-color: #fafafa;
+  border: none;
+  outline: none;
+  padding: 0;
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  border-radius: 50%;
+}
+
+.input-bar {
+  position: relative;
+}
+
+.dropDown-content {
+  display: block;
+  position: absolute;
+  min-width: 205px;
+  box-sizing: content-box;
+  padding: 12px 16px;
+  z-index: 1;
+}
+
 
 

@@ -33,11 +33,10 @@ export const Item = ({data: {id, title, thumbnail, price, quantity, total, disco
   
   export const Main = (props) => {
     const {items} = props;
-    console.log(props);
     const components = items.map((item) =>{
       return <Item />
+      
     })
-    console.log(components);
     
     return (
       <div className='ui link cards'>

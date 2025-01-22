@@ -21,7 +21,7 @@ function App() {
   const isUserLogedIn = true;
   return (
     <div className="ui container" style ={{marginTop: "20px"}}>
-      <Header />
+      <Header  />
       {isUserLogedIn ? null : <LoginBanner />}
       <Main items = {items} />
       <Footer opening = {openingHours}/>
